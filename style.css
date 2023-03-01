@@ -68,4 +68,13 @@ ul.letters{
     color: #cba573;
     background-color: #f1e2ce;   
   }
-  
+ul#my-word{
+      display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+li.guess{
+        width: 21px;
+    font-size: x-large;
+}
